@@ -45,7 +45,7 @@ Test set, 10 classes, macro-averaged:
 ```
 ├── notebook.ipynb     # preprocessing, MLP, SVM, evaluation
 ├── figures/           # loss curves, confusion matrix, grid search plots
-├── report/            # coursework report PDF (optional)
+├── report/ -(after results)           # coursework report PDF (optional)
 ├── requirements.txt
 └── README.md
 ```
