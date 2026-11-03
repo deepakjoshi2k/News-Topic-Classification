@@ -50,21 +50,7 @@ Test set, 10 classes, macro-averaged:
 └── README.md
 ```
 
-## How to run
-
-<!-- Replace with your real commands -->
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
-pip install -r requirements.txt
-jupyter notebook notebook.ipynb
-```
-
 ## Tech stack
 
 Python, PyTorch, scikit-learn, pandas, NumPy, NLTK.
 <!-- Remove anything you did not use -->
-
-## Author
-
-Deepak Joshi — [LinkedIn](<your-link>)
